@@ -1,0 +1,1 @@
+The proposed project introduces a simplified yet highly effective solution. By integrating the Arduino Uno with YOLOv8, an advanced deep learning model recognized for its speed and accuracy in object detection, the project seeks to demonstrate the feasibility of creating sophisticated security systems using readily available components and minimal expertise.
